@@ -1,0 +1,14 @@
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\bin\Debug\LaundroFill_5.exe.config
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\bin\Debug\LaundroFill_5.exe
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\bin\Debug\LaundroFill_5.pdb
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\obj\Debug\LaundroFill_5.csproj.AssemblyReference.cache
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\obj\Debug\LaundroFill_5.Properties.Resources.resources
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\obj\Debug\LaundroFill_5.csproj.GenerateResource.cache
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\obj\Debug\LaundroFill_5.csproj.CoreCompileInputs.cache
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\obj\Debug\LaundroFill_5.exe
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\obj\Debug\LaundroFill_5.pdb
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\obj\Debug\LaundroFill_5.admin_form.resources
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\bin\Debug\Database.mdf
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\bin\Debug\Database_log.ldf
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\obj\Debug\LaundroFill_5.uc_products_form.resources
+C:\Users\Shainna\source\repos\LaundroFill_5\LaundroFill_5\obj\Debug\LaundroFill_5.uc_products.resources
