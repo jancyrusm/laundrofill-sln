@@ -41,14 +41,15 @@ namespace LaundroFill_5
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel_main = new System.Windows.Forms.Panel();
+            this.panel_usercontrols = new System.Windows.Forms.Panel();
+            this.uc_products1 = new LaundroFill_5.uc_products();
             this.btn_settings = new System.Windows.Forms.Button();
             this.btn_reports = new System.Windows.Forms.Button();
             this.btn_transactions = new System.Windows.Forms.Button();
             this.btn_products = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.panel_usercontrols = new System.Windows.Forms.Panel();
-            this.uc_products1 = new LaundroFill_5.uc_products();
+            this.uc_settings1 = new LaundroFill_5.uc_settings();
             this.panel_login.SuspendLayout();
             this.panel_main.SuspendLayout();
             this.panel_usercontrols.SuspendLayout();
@@ -95,9 +96,9 @@ namespace LaundroFill_5
             this.txt_password.Font = new System.Drawing.Font("Arial", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_password.Location = new System.Drawing.Point(393, 211);
             this.txt_password.Name = "txt_password";
+            this.txt_password.PasswordChar = '*';
             this.txt_password.Size = new System.Drawing.Size(257, 27);
             this.txt_password.TabIndex = 4;
-            this.txt_password.PasswordChar = '*';
             // 
             // label3
             // 
@@ -154,6 +155,23 @@ namespace LaundroFill_5
             this.panel_main.Size = new System.Drawing.Size(1080, 600);
             this.panel_main.TabIndex = 8;
             // 
+            // panel_usercontrols
+            // 
+            this.panel_usercontrols.Controls.Add(this.uc_settings1);
+            this.panel_usercontrols.Controls.Add(this.uc_products1);
+            this.panel_usercontrols.Location = new System.Drawing.Point(40, 25);
+            this.panel_usercontrols.Name = "panel_usercontrols";
+            this.panel_usercontrols.Size = new System.Drawing.Size(1003, 518);
+            this.panel_usercontrols.TabIndex = 7;
+            this.panel_usercontrols.Visible = false;
+            // 
+            // uc_products1
+            // 
+            this.uc_products1.Location = new System.Drawing.Point(0, 0);
+            this.uc_products1.Name = "uc_products1";
+            this.uc_products1.Size = new System.Drawing.Size(1003, 518);
+            this.uc_products1.TabIndex = 0;
+            // 
             // btn_settings
             // 
             this.btn_settings.Font = new System.Drawing.Font("Arial", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -193,7 +211,6 @@ namespace LaundroFill_5
             this.btn_products.TabIndex = 3;
             this.btn_products.Text = "Products";
             this.btn_products.UseVisualStyleBackColor = true;
-            this.btn_products.Click += btn_products_Click;
             // 
             // label5
             // 
@@ -215,21 +232,12 @@ namespace LaundroFill_5
             this.label4.TabIndex = 1;
             this.label4.Text = "L A U N D R O F I L L";
             // 
-            // panel_usercontrols
+            // uc_settings1
             // 
-            this.panel_usercontrols.Controls.Add(this.uc_products1);
-            this.panel_usercontrols.Location = new System.Drawing.Point(40, 25);
-            this.panel_usercontrols.Name = "panel_usercontrols";
-            this.panel_usercontrols.Size = new System.Drawing.Size(1003, 518);
-            this.panel_usercontrols.TabIndex = 7;
-            this.panel_usercontrols.Visible = false;
-            // 
-            // uc_products1
-            // 
-            this.uc_products1.Location = new System.Drawing.Point(0, 0);
-            this.uc_products1.Name = "uc_products1";
-            this.uc_products1.Size = new System.Drawing.Size(1003, 518);
-            this.uc_products1.TabIndex = 0;
+            this.uc_settings1.Location = new System.Drawing.Point(-3, 3);
+            this.uc_settings1.Name = "uc_settings1";
+            this.uc_settings1.Size = new System.Drawing.Size(1003, 518);
+            this.uc_settings1.TabIndex = 1;
             // 
             // admin_form
             // 
@@ -270,6 +278,7 @@ namespace LaundroFill_5
         private Label label4;
         private Panel panel_usercontrols;
         private uc_products uc_products1;
+        private uc_settings uc_settings1;
         //private uc_transactions uc_transactions1;
         //private uc_reports uc_reports1;
         //private uc_settings uc_settings1;

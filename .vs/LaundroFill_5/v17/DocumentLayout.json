@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|c:\\users\\shainna\\documents\\laundrofill\\laundrofill-sln\\laundrofill_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|solutionrelative:laundrofill_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|c:\\users\\shainna\\documents\\laundrofill\\laundrofill-sln\\laundrofill_5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|solutionrelative:laundrofill_5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|c:\\users\\shainna\\documents\\laundrofill\\laundrofill-sln\\laundrofill_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|solutionrelative:laundrofill_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|c:\\users\\shainna\\documents\\laundrofill\\laundrofill-sln\\laundrofill_5\\uc_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|solutionrelative:laundrofill_5\\uc_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|c:\\users\\shainna\\documents\\laundrofill\\laundrofill-sln\\laundrofill_5\\uc_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|solutionrelative:laundrofill_5\\uc_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|c:\\users\\shainna\\documents\\laundrofill\\laundrofill-sln\\laundrofill_5\\uc_settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9B4432-32D0-4DD3-89B4-81BCC75293D4}|LaundroFill_5\\LaundroFill_5.csproj|solutionrelative:laundrofill_5\\uc_settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\Form1.cs",
+              "RelativeDocumentMoniker": "LaundroFill_5\\Form1.cs",
+              "ToolTip": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\Form1.cs",
+              "RelativeToolTip": "LaundroFill_5\\Form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA3wFIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:33:17.573Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LaundroFill_5\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\Form1.Designer.cs",
+              "RelativeToolTip": "LaundroFill_5\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:32:57.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\Form1.cs",
+              "RelativeDocumentMoniker": "LaundroFill_5\\Form1.cs",
+              "ToolTip": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\Form1.cs [Design]",
+              "RelativeToolTip": "LaundroFill_5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:33:41.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "uc_settings.cs",
+              "DocumentMoniker": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\uc_settings.cs",
+              "RelativeDocumentMoniker": "LaundroFill_5\\uc_settings.cs",
+              "ToolTip": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\uc_settings.cs",
+              "RelativeToolTip": "LaundroFill_5\\uc_settings.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:01:19.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "uc_settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\uc_settings.Designer.cs",
+              "RelativeDocumentMoniker": "LaundroFill_5\\uc_settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\uc_settings.Designer.cs",
+              "RelativeToolTip": "LaundroFill_5\\uc_settings.Designer.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:58:15.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "uc_settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\uc_settings.cs",
+              "RelativeDocumentMoniker": "LaundroFill_5\\uc_settings.cs",
+              "ToolTip": "C:\\Users\\Shainna\\Documents\\LAUNDROFILL\\laundrofill-sln\\LaundroFill_5\\uc_settings.cs [Design]",
+              "RelativeToolTip": "LaundroFill_5\\uc_settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T22:57:56.852Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

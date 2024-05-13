@@ -81,6 +81,12 @@
     <Compile Include="uc_products_form.Designer.cs">
       <DependentUpon>uc_products_form.cs</DependentUpon>
     </Compile>
+    <Compile Include="uc_settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_settings.Designer.cs">
+      <DependentUpon>uc_settings.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -98,6 +104,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="uc_products_form.resx">
       <DependentUpon>uc_products_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_settings.resx">
+      <DependentUpon>uc_settings.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

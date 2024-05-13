@@ -29,7 +29,7 @@ namespace LaundroFill_5
             uc_products1.BackButtonClicked += Uc_products1_BackButtonClicked;
             //uc_transactions2.BackButtonClicked += Uc_transactions1_BackButtonClicked;
             //uc_reports2.BackButtonClicked += Uc_reports1_BackButtonClicked;
-            //uc_settings1.BackButtonClicked += Uc_settings1_BackButtonClicked;
+            uc_settings1.BackButtonClicked += Uc_settings1_BackButtonClicked;
 
         }
 
@@ -64,7 +64,7 @@ namespace LaundroFill_5
             uc_products1.Hide();
             //uc_transactions2.Hide();
             //uc_reports2.Hide();
-            ////uc_settings1.Hide();
+            uc_settings1.Hide();
 
             if (nextUC == "products")
             {
@@ -78,10 +78,10 @@ namespace LaundroFill_5
             //{
             //    uc_reports2.Show();
             //}
-            //else if (nextUC == "settings")
-            //{
-            //    //uc_settings1.Show();
-            //}
+            else if (nextUC == "settings")
+            {
+                uc_settings1.Show();
+            }
             //else if (nextUC == "main")
             //{
             //    panel_login.Hide();
